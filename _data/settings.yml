@@ -1,12 +1,11 @@
 menu:
 - {name: 'projects', url: '/projects'}
-- {name: 'publications', url: '/publications'}
+- {name: 'works in progress', url: '/publications'}
 - {name: 'cv', url: '/cv'}
 - {name: 'contact', url: '/contact'}
 
 social:
 - {icon: 'github', link: 'https://github.com/janemontanez'}
-- {icon: 'linkedin', link: 'https://linkedin.com/in/janemontanez'}
 
 contacts:
 - {name: 'Jane Montañez', title: 'JD, MLIS Candidate', department: 'Department of Information Studies', institution: 'UCLA', institution_address: 'Los Angeles, CA', email: 'jheer@g.ucla.edu', image: 'assets/img/contact.jpg'}
