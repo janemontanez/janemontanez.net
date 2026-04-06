@@ -1,6 +1,5 @@
 menu:
-- {name: 'projects', url: '/projects'}
-- {name: 'works in progress', url: '/publications'}
+- {name: 'projects', url: 'https://github.com/janemontanez'}
 - {name: 'cv', url: '/cv'}
 - {name: 'contact', url: '/contact'}
 
