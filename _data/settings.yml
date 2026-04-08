@@ -1,6 +1,6 @@
 menu:
 - {name: 'projects', url: 'https://github.com/janemontanez'}
-- {name: 'cv', url: '/cv'}
+- {name: 'cv', url: '/assets/Resume.pdf'}
 - {name: 'contact', url: '/contact'}
 
 social:
