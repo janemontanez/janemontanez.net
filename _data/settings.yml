@@ -5,6 +5,7 @@ menu:
 
 social:
 - {icon: 'github', link: 'https://github.com/janemontanez'}
+- {icon: 'orcid', link: 'https://orcid.org/0009-0009-4460-0300'}
 - {label: 'arXiv', link: 'https://arxiv.org/'}
 
 contacts:
