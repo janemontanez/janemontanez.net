@@ -1,7 +1,7 @@
 menu:
 - {name: 'projects', url: 'https://github.com/janemontanez'}
 - {name: 'cv', url: '/assets/Resume.pdf'}
-- {name: 'contact', url: '/contact'}
+- {name: 'contact', url: 'mailto:jheer@ucla.edu'}
 
 social:
 - {icon: 'github', link: 'https://github.com/janemontanez'}
