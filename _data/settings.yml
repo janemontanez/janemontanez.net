@@ -1,5 +1,5 @@
 menu:
-- {name: 'projects', url: 'https://github.com/janemontanez'}
+- {name: 'projects', url: '/projects'}
 - {name: 'cv', url: '/assets/Resume.pdf'}
 - {name: 'contact', url: 'mailto:jheer@ucla.edu'}
 
