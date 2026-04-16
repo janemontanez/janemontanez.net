@@ -1,7 +1,7 @@
 url: "https://janemontanez.net"
 baseurl: ""
 title: "Jane Montañez"
-description: "JD / MLIS / LL.M.*"
+description: "JD, MLIS Candidate"
 
 exclude:
   - Gemfile

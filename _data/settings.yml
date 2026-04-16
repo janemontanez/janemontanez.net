@@ -1,4 +1,5 @@
 menu:
+- {name: 'portfolio', url: '/portfolio/'}
 - {name: 'cv', url: '/assets/Resume.pdf'}
 - {name: 'contact', url: 'mailto:jheer@ucla.edu'}
 
